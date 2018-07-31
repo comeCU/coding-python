@@ -12,4 +12,6 @@ python学习的个人记录，持续更新中……
 
   > 该书的中文译本：[《简明python教程》](https://github.com/onion7878/A-Byte-of-Python-CN)
 
+- [mySpider](https://github.com/comeCU/coding-python/tree/master/mySpider):爬虫及爬虫相关库的学习
+
 
