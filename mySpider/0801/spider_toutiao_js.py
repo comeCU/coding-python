@@ -12,6 +12,7 @@
 import requests
 import json
 
+# 从网页响应中找到 JS 脚本返回的 JSON 数据：Network --> XHR --> Preview 查看ajax返回的数据
 url = "https://www.toutiao.com/api/pc/focus/"
 wbdata = requests.get(url).text
 
