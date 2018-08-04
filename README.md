@@ -14,4 +14,7 @@ python学习的个人记录，持续更新中……
 
 - [mySpider](https://github.com/comeCU/coding-python/tree/master/mySpider):爬虫及爬虫相关库的学习
 
+  - [python爬虫入门实战](https://zmister.com/archives/category/scrap/pythonscrapbook)
+  - [Python3网络爬虫开发实战](https://germey.gitbooks.io/python3webspider/content/)
+
 
