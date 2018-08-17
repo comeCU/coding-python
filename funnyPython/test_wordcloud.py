@@ -2,6 +2,11 @@
 # -*- coding:utf-8 -*-
 
 # 生成词云
+'''
+Reference:
+        https://amueller.github.io/word_cloud/
+    	https://github.com/amueller/word_cloud
+'''
 
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
