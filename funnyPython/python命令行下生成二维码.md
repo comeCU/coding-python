@@ -8,4 +8,15 @@
 
    > https://github.com/sylnsfar/qrcode
 
-   ​
+3. my demo
+
+   ```shell
+   >myqr https://github.com/comeCU -p C:\User\Administrator\Desktop\my_github.jpg -n hello.png -d C:\Users\Administrator\Desktop -c
+   ```
+
+   注：
+
+   - [-p]  源图片路径
+   - [-n]  生成二维码图片命名
+   - [-d]  生成二维码图片保存路径
+   - [-c]  使产生的二维码图片由黑白变为彩色
