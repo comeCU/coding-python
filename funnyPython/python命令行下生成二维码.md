@@ -20,3 +20,5 @@
    - [-n]  生成二维码图片命名
    - [-d]  生成二维码图片保存路径
    - [-c]  使产生的二维码图片由黑白变为彩色
+
+   <div align="center"> <img src="https://github.com/comeCU/coding-python/blob/master/funnyPython/hello.png"/> </div>
