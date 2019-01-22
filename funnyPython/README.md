@@ -8,7 +8,7 @@
 
 2. GitHub仓库地址
 
-   > https://github.com/sylnsfar/qrcode
+   - [qrcode](https://github.com/sylnsfar/qrcode)
 
 3. my demo
 
@@ -29,18 +29,18 @@
 
 ## 2.U盘插入自动复制
 
-​	[查看代码](https://github.com/comeCU/coding-python/blob/master/funnyPython/test_copy.py)
+- [查看代码](https://github.com/comeCU/coding-python/blob/master/funnyPython/test_copy.py)
 
 
 
 ## 3.jieba词云
 
-​	[查看代码](https://github.com/comeCU/coding-python/blob/master/funnyPython/testJieba.py)
+- [查看代码](https://github.com/comeCU/coding-python/blob/master/funnyPython/testJieba.py)
 
 
 
 ## 4.使用python的Turtle库绘图
 
-​	[原作者仓库](https://github.com/Monster12138/-)
+- [原作者仓库](https://github.com/Monster12138/-)
 
 <div align="center"> <img src="https://github.com/comeCU/coding-python/blob/master/funnyPython/peiqi.gif"/> </div>
