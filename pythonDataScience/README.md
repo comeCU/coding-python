@@ -4,9 +4,9 @@
 
 - 描述簇质量：
 
-  <div align="center"> <img src="https://github.com/comeCU/coding-python/blob/master/pythonDataScience/figure/out_04.png"/> </div>
+  <div align="center"> <img src="https://github.com/comeCU/coding-python/blob/master/pythonDataScience/figure/out_4.png"/> </div>
 
 - 聚类、聚类中心
 
-  <div align="center"> <img src="https://github.com/comeCU/coding-python/blob/master/pythonDataScience/figure/out_05.png"/> </div>
+  <div align="center"> <img src="https://github.com/comeCU/coding-python/blob/master/pythonDataScience/figure/out_5.png"/> </div>
 
