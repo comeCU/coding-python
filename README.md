@@ -18,4 +18,4 @@ python学习的个人记录，持续更新中……
   - [Python3网络爬虫开发实战](https://germey.gitbooks.io/python3webspider/content/)
   - [精通Scrapy网络爬虫](https://read.douban.com/ebook/46720233/)
 
-
+- [pythonDataScience](https://github.com/comeCU/coding-python/tree/master/pythonDataScience): 数据挖掘和机器学习作业以及实践代码
